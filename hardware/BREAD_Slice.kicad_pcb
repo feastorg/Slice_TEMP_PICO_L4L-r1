@@ -7529,7 +7529,7 @@
 			(justify left top)
 		)
 	)
-	(gr_text "BREAD Slice\nTemplate\nSLC_TEMP\nR0 05-2026"
+	(gr_text "BREAD Slice\nTemplate\nSLC_TEMP\nR1 05-2026"
 		(at 94.8 126.2 270)
 		(layer "F.SilkS")
 		(uuid "5abfd3cf-8b82-409d-b0dd-ab0b45a460bd")
