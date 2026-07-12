@@ -6,7 +6,7 @@ name: "Slice Template — Pico, Large, 4-Layer, Rev 1"
 status: "released"
 category: "template"
 
-summary: "Starter template for BREAD slices using Raspberry Pi Pico on a large 4-layer PCB (100x145mm)."
+summary: "Starter template for BREADS-compatible Slices using Raspberry Pi Pico on a large 4-layer PCB (100x145mm)."
 description: null
 
 # ── Versioning ────────────────────────────────────────────────────────────────
